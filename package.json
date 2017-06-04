@@ -1,0 +1,16 @@
+{
+  "name": "ds-demo-emoticon-connection-endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/emoticon-connection-endpoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uws": "https://github.com/deepstreamIO/uws-dependency.git#v0.12.0",
+    "emoji-js": "^3.2.2",
+    "ws": "^3.0.0"
+  }
+}
