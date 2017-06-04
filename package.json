@@ -1,5 +1,5 @@
 {
-  "name": "ds-demo-emoticon-connection-endpoint",
+  "name": "deepstream.io-connection-emoticon",
   "version": "1.0.0",
   "description": "",
   "main": "src/emoticon-connection-endpoint.js",

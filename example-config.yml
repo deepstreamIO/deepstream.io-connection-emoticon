@@ -1,0 +1,7 @@
+connectionEndpoints:
+  emoticon:
+    name: 'emoticon'
+    options:
+        port: 6020
+  websocket:
+    null
