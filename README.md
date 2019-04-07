@@ -1,4 +1,7 @@
 # deepstream.io-emoticon-endpoint
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/deepstreamIO/deepstream.io-connection-emoticon.svg)](https://greenkeeper.io/)
+
 An example endpoint using a protocol based on emoticons
 
 This repo is used a playful experimental ground as an example for what a different connection endpoint can do.
